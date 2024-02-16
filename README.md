@@ -1,1 +1,1 @@
-This is a calorie counter to calculate the number of calories consumed.
+This is a calorie counter to calculate the number of calories consumed per meal.
